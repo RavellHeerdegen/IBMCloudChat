@@ -1,0 +1,5 @@
+applications:
+ - name: festive-engelbart
+   memory: 256M
+   host: festive-engelbart
+   buildpack: staticfile_buildpack
